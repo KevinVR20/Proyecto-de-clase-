@@ -22,9 +22,12 @@ Para facilitar la organización y el registro de los libros prestados y disponib
 
 ## Implementación con listas
 
-Se aborda la implementación de una lista enlazada simple (ListaSE) en Python para almacenar elementos de cualquier tipo. la implementación de la ListaSE proporciona una estructura versátil y eficiente para gestionar colecciones de datos dinámicas, como las asociadas a un sistema de gestión de biblioteca. Esta estructura de datos proporciona operaciones clave como agregar elementos al inicio y final, buscar un elemento por valor, contar elementos y verificar si la lista está vacía. Además, se ha implementado un método adicional para mostrar los libros registrados a nombre de un usuario específico.
+Se aborda la implementación de una lista enlazada simple (ListaSE) en Python para almacenar elementos de cualquier tipo. La implementación de la ListaSE proporciona una estructura versátil y eficiente para gestionar colecciones de datos dinámicas, como las asociadas a un sistema de gestión de biblioteca. Esta estructura de datos proporciona operaciones clave como agregar elementos al inicio y final, buscar un elemento por valor, contar elementos y verificar si la lista está vacía. Además, se ha implementado un método adicional para mostrar los libros registrados a nombre de un usuario específico.
+
 La lista enlazada se caracteriza por su capacidad de crecimiento dinámico y eficiencia en la inserción y eliminación de elementos. Cada nodo en la lista contiene datos y una referencia al siguiente nodo, lo que permite un acceso secuencial y eficiente a través de la lista.
-El método adicional implementado permite buscar y mostrar los libros asociados a un usuario específico dentro de la lista. Esto facilita la gestión y visualización de los datos relacionados con los usuarios y los libros que tienen en préstamo o registro.
+
+El método adicional implementado permite buscar y mostrar los libros asociados a un usuario específico dentro de la lista. Esto facilita la gestión y visualización de los datos relacionados con los usuarios y los libros que tienen en préstamo o registro
+
 
 ## Implementación con árboles
 
